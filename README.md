@@ -6,7 +6,7 @@
 
 - 👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo como JavaScript, Python, Java y C#.
 - 📚 En el futuro espero poder enfocarme en desarrollar apps moviles :)
-- 💪🏼 Objetivos: aprender más tecnologías: nunca dejes de crear nuevas ideas, encontrar un empleo que me permita crecer como profesional.
+- 💪🏼 Objetivos: aprender más tecnologías, nunca dejar de ser autodidacta, encontrar un empleo que me permita crecer como profesional.
 - ⚡ Pasatiempos: Me encantan los videojuegos, leer y aprender sobre ciberseguridad.
 
 ---
