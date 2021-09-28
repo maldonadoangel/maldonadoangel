@@ -4,7 +4,7 @@
 
 ## Soy estudiante de Ingenieria en sistemas 📚
 
-- 👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo como JavaScript, Python, Java y C++.
+- 👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo como Dart, Flutter, Python, Java y C++.
 - 📚 En el futuro espero poder enfocarme en desarrollar apps moviles :)
 - 💪🏼 Objetivos: aprender más tecnologías, nunca dejar de ser autodidacta, encontrar un empleo que me permita crecer como profesional.
 - ⚡ Pasatiempos: Me encantan los videojuegos, leer y aprender sobre ciberseguridad.
@@ -34,6 +34,7 @@
 
 ### Lenguajes y herramientas  🛠 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
