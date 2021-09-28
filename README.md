@@ -4,7 +4,7 @@
 
 ## Soy estudiante de Ingenieria en sistemas 📚
 
-- 👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo como Dart, Flutter, Python, Java y C++.
+- 👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo como Dart, Flutter, Python, Java, Kotlin y C++.
 - 📚 En el futuro espero poder enfocarme en desarrollar apps moviles :)
 - 💪🏼 Objetivos: aprender más tecnologías, nunca dejar de ser autodidacta, encontrar un empleo que me permita crecer como profesional.
 - ⚡ Pasatiempos: Me encantan los videojuegos, leer, actualmente estoy aprendiendo a tocar guitarra :D
