@@ -1,4 +1,4 @@
-# Hola, mi nombre es Angel Morales <img width="10px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hola, mi nombre es Angel Morales 
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/3o6ggbCzAotIx43ey4/giphy.gif?cid=ecf05e47ggblh636rlms3ce3z35z27inq8wa5xhd3kv9r96l&rid=giphy.gif&ct=g" />
 
