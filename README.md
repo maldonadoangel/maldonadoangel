@@ -4,10 +4,9 @@
 
 ## Soy estudiante de Ingenieria en sistemas 📚
 
-- 👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo como .NET, Javascript, Dart, Flutter, C#, Kotlin y C++.
-- 📚 En el futuro espero poder enfocarme en desarrollar apps moviles :)
-- 💪🏼 Objetivos: aprender más tecnologías, encontrar un empleo que me permita crecer como profesional.
-- ⚡ Pasatiempos: Me encuentro aprendiendo ingles
+- 👨‍💻 Actualmente estoy aprendiendo y trabajando con tecnologías de desarrollo mobile y desktop como Swift, Dart/Flutter y C++.
+- 💪🏼 Objetivos: aprender Inglés en un nivel avanzado
+- ⚡ Pasatiempos: Me encanta las artes marciales mixtas.
 
 
 ---
